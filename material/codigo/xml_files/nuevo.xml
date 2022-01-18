@@ -1,0 +1,14 @@
+<selva>
+    <animal>
+        <nombre>Yeison</nombre>
+        <tipo>Pantera</tipo>
+        <color>Negro</color>
+        <edad>12</edad>
+        </animal>
+    <animal>
+        <nombre>Jimbo</nombre>
+        <tipo>Le&#243;n</tipo>
+        <color>Marr&#243;n</color>
+        <edad>15</edad>
+    </animal>
+</selva>
