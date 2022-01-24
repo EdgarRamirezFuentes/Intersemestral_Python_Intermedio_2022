@@ -27,9 +27,9 @@ def get_BMI(height : float, weight : float):
             It is the BMI of the person
     '''
     try:
-        if height <= 0 or weigth <= 0:
+        if height <= 0 or weight <= 0:
             raise ValueError('The values must be greater than 0')
-        bmi = weigth / height**2
+        bmi = weight / height**2
     except ArithmeticError as e:
         sys.exit(f'Error: {e}')
     except TypeError as e:
