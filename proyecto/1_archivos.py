@@ -1,3 +1,10 @@
+'''
+    Name: 1_archivos.py
+    Description: Convert Python data to JSON
+    Author: Edgar Alejandro Ramírez Fuentes
+    Date: 01/24/2021
+'''
+
 import json
 
 # Creating the assistants list
