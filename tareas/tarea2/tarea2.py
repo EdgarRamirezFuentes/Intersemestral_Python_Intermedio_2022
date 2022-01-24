@@ -1,3 +1,10 @@
+'''
+    Name: tarea2.py
+    Description: Get soccer teams information using web scraping
+    Author: Edgar Alejandro Ramírez Fuentes
+    Date: 01/23/2021
+'''
+
 import requests
 import sys
 from bs4 import BeautifulSoup
