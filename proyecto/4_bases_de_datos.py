@@ -1,3 +1,10 @@
+'''
+    Name: 4_bases_de_datos.py
+    Description: Basic CRUD in python using sqlite3
+    Author: Edgar Alejandro Ramírez Fuentes
+    Date: 01/24/2021
+'''
+
 import sqlite3
 import sys
 
